@@ -12,31 +12,14 @@
       "id": 1
     },
     {
-      "name": "tester",
-      "budget": "5000",
-      "category": {
-        "id": "4",
-        "name": "Planejamento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 2
-    },
-    {
       "name": "teste1",
       "budget": "8000",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 700,
+      "cost": 500,
       "services": [
-        {
-          "name": "testea",
-          "cost": "200",
-          "description": "testea",
-          "id": "0b910463-9cc8-476a-8be5-99be95af9dc7"
-        },
         {
           "name": "teste",
           "cost": "500",
@@ -45,6 +28,17 @@
         }
       ],
       "id": 3
+    },
+    {
+      "name": "Teste Projeto",
+      "budget": "5.000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 4
     }
   ],
   "categories": [
