@@ -1,26 +1,50 @@
 {
   "projects": [
     {
-      "name": "API remoção",
-      "budget": "1500",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 1
-    },
-    {
-      "name": "Teste 6",
-      "budget": "2000",
+      "name": "Dev",
+      "budget": "10000",
       "category": {
         "id": "3",
         "name": "Design"
       },
       "cost": 0,
       "services": [],
+      "id": 1
+    },
+    {
+      "name": "tester",
+      "budget": "5000",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": [],
       "id": 2
+    },
+    {
+      "name": "teste1",
+      "budget": "8000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 700,
+      "services": [
+        {
+          "name": "testea",
+          "cost": "200",
+          "description": "testea",
+          "id": "0b910463-9cc8-476a-8be5-99be95af9dc7"
+        },
+        {
+          "name": "teste",
+          "cost": "500",
+          "description": "teste",
+          "id": "156f1b8b-08a4-431d-b45c-24d4170604f7"
+        }
+      ],
+      "id": 3
     }
   ],
   "categories": [
